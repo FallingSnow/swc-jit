@@ -1,7 +1,12 @@
 # swc-jit
-Use typescript, tsx/jsx, modules in node without having to transpile beforehand or use ts-node.
+Use typescript in node without having to transpile beforehand or use ts-node.
 
 It even has source-map support.
+
+## Install
+```
+npm install swc-jit
+```
 
 ## Usage
 ```
