@@ -1,0 +1,34 @@
+{
+  "name": "swc-jit",
+  "version": "0.1.0",
+  "description": "Just in time swc transpiler for node's experimental loader functionality.",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallingSnow/swc-jit.git"
+  },
+  "keywords": [
+    "swc",
+    "transpile",
+    "esnext",
+    "es2020",
+    "module",
+    "loader",
+    "typescript",
+    "ts"
+  ],
+  "author": "Ayrton Sparling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FallingSnow/swc-jit/issues"
+  },
+  "homepage": "https://github.com/FallingSnow/swc-jit#readme",
+  "dependencies": {
+    "@swc/core": "^1.2.82",
+    "source-map-support": "^0.5.19"
+  }
+}
