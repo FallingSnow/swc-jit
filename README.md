@@ -10,7 +10,7 @@ npm install swc-jit
 
 ## Usage
 ```
-node --experimental-loader swc-jit index.ts
+node --experimental-loader swc-jit --enable-source-maps index.ts
 ```
 
 ### Testing

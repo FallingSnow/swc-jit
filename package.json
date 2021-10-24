@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/FallingSnow/swc-jit#readme",
   "dependencies": {
-    "@swc/core": "^1.2.82",
-    "source-map-support": "^0.5.19"
+    "@swc/core": "^1.2.102"
   }
 }
